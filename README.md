@@ -90,23 +90,6 @@ The project helps answer questions such as:
 | **Flask (Python)** | Web UI integration and embedding |
 | **CSV** | Housing data source |
 
-## 📁 Project Repository Structure
-```
-housing-tableau-project
-│
-├── data/
-│   └── Housing_Data.csv
-│
-├── tableau/
-│   └── housing_cleaned.twbx
-│
-└── README.md
-```
-
-## 👥 Team Contributions
-- **Data Cleaning & Preparation:** Dataset exploration, renaming, structuring of dimensions/measures, and validation.
-- **Visualization and Dashboard:** Tableau visualizations, dashboard design, and storyboard creation.
-- **Deployment:** Publishing of dashboards and web integration via Flask.
 
 ## 🚀 Future Improvements
 Potential enhancements for this project include:
